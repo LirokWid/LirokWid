@@ -2,7 +2,7 @@
 - 👀 I’m interested in life
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on collaborations
-- 📫 How to reach me : telepathie
+- 📫 How to reach me : telepathie (or messages it should work)
 
 <!---
 LirokWid/LirokWid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
